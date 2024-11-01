@@ -1,0 +1,14 @@
+.fblcs-container {
+    background-color: #fff;
+    padding: 20px;
+}
+
+a.fblcs.nav-tab {
+    margin-left: 0px;
+    margin-right: 5px;
+}
+
+.fb-comments.fblcs-front.fb_iframe_widget.fb_iframe_widget_fluid_desktop {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

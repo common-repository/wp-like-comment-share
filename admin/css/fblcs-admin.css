@@ -1,0 +1,40 @@
+a.fblcs.nav-tab {    
+    border-bottom: 0;
+    margin-right: 10px;
+    margin-left: 0;
+}
+
+.fblcs-container .widefat td, .widefat td ol, .widefat td p, .widefat td ul {
+	font-size: 14px;
+}
+
+.fblcs-container {
+    padding: 20px;
+    background-color: #fff;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.fblcs-container table.fixed {    
+    padding: 10px;
+}
+
+@media screen and ( max-width: 576px ) {
+	.fblcs-container table tr td input:not([type="checkbox"]), select {
+		width: 100%;
+	}
+}
+
+.fblcs_hide_post_form, .fblcs_hide_page_form, .fblcs_disable_comments_and_form, #let_me_give_it, #let_me_give_it_s {
+    display: none;
+}
+
+.fblcs-small-input {
+    width: 15%;
+}
+a.fblcs.nav-tab.active {
+    background-color: #fff; 
+}
+.fblcs-info-red {
+    color : red;
+}
